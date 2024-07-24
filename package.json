@@ -1,0 +1,11 @@
+{
+  "name": "dicemancer",
+  "version": "0.0.0",
+  "description": "Auto dice roller",
+  "main": "dicemancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Sewell <jasewell@gmail.com>",
+  "license": "MIT"
+}
